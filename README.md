@@ -8,8 +8,9 @@ Desenvolvedor Front-end na [Petlove](https://petlove.com.br/).
 
 <div align="center">
   <a href="https://github.com/manzolidev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manzolidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manzolidev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
+<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Richard%20Manzoli-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-manzoli/)](https://www.linkedin.com/in/richard-manzoli/)
 [![Gmail Badge](https://img.shields.io/badge/-manzolidevf@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manzolidevf@gmail.com)](mailto:manzolidevf@gmail.com)
