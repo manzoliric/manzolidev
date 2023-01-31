@@ -1,4 +1,4 @@
-Me chamo Richard Manzoli, tenho 27 anos e trabalho como desenvolvedor front-end a quase 5 anos.
+Me chamo Richard Manzoli, trabalho como desenvolvedor front-end a quase 5 anos.
 
 Tecnologias principais e que mais tenho domínio são Javascript, Vue.js, Nuxt, CSS, Sass, Node.js, Jest, Playwright, Puppeteer, Storybook, Gulp, Webpack, entre outras...
 
